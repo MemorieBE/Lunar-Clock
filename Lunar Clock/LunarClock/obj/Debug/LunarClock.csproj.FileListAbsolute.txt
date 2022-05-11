@@ -1,0 +1,22 @@
+C:\Creating\Programming\C#\LunarClock\bin\Debug\LunarClock.exe.config
+C:\Creating\Programming\C#\LunarClock\bin\Debug\LunarClock.exe
+C:\Creating\Programming\C#\LunarClock\bin\Debug\LunarClock.pdb
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.csproj.AssemblyReference.cache
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.Properties.Resources.resources
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.csproj.GenerateResource.cache
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.csproj.CoreCompileInputs.cache
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.exe
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.pdb
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.ClockForm.resources
+C:\Creating\Programming\C#\LunarClock\obj\Debug\LunarClock.CalibrationForm.resources
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\bin\Debug\LunarClock.exe.config
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\bin\Debug\LunarClock.exe
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\bin\Debug\LunarClock.pdb
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.csproj.AssemblyReference.cache
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.CalibrationForm.resources
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.ClockForm.resources
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.Properties.Resources.resources
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.csproj.GenerateResource.cache
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.csproj.CoreCompileInputs.cache
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.exe
+C:\Creating\Programming\C#\Lunar Clock\LunarClock\obj\Debug\LunarClock.pdb
