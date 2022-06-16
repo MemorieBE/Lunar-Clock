@@ -152,7 +152,7 @@ namespace LunarClock
 
         private void UpdateLunarDetails(float lunarFraction)
         {
-            float lunarPercentage = (lunarFraction < 0.5f ? lunarFraction / 2f : (1f - lunarFraction) / 2f) * 100f;
+            float lunarPercentage = (lunarFraction < 0.5f ? lunarFraction * 2f : (1f - lunarFraction) * 2f) * 100f;
 
             lunarLuminanceText.Text = "Luminance: " + lunarPercentage.ToString("F") + "%";
 
